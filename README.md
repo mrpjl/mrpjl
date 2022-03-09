@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/-Terraform-563D7C?style=flat&logo=terraform&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white">
 
-## **Badges🥇**<br>
+## **Certifications🥇**<br>
 <a href="https://www.credly.com/badges/882d0885-1cde-42f7-b18c-3f876d8eb6aa/public_url"><img src="https://images.credly.com/size/120x120/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png" alt="AWS" /> </a>&nbsp;
 <a href="https://www.credly.com/badges/bc827c42-1cae-4cc0-873d-af0d77d17bde/public_url"><img src="https://images.credly.com/size/120x120/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform" /> </a>
 
