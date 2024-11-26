@@ -21,6 +21,9 @@
 <a href="https://www.credly.com/badges/882d0885-1cde-42f7-b18c-3f876d8eb6aa/public_url"><img src="https://images.credly.com/size/120x120/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS" /> </a>&nbsp;
 <a href="https://www.credly.com/badges/bc827c42-1cae-4cc0-873d-af0d77d17bde/public_url"><img src="https://images.credly.com/size/120x120/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform" /> </a>
 
+## **Knowledge Badges💡**<br>
+<a href="https://www.credly.com/badges/e78e35c1-e630-468c-9f3f-94caf06c697e/public_url"><img src="https://images.credly.com/size/130x80/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" alt="AWS Partner: Technical Accredited" /> </a>
+
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpjl&show_icons=true&hide_border=true)&nbsp;
